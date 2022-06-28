@@ -10,7 +10,7 @@ Apart from this, we have used JSON Web Token (JWT) to add authentication. Using 
 
 1. **Clone the repo from GitHub**
    ```sh
-   git clone https://github.com/pairlearning/expense-tracker-api.git
+   git clone https://github.com/fazriridwan19/expense-tracker-api.git
    cd expense-tracker-api
    ```
 2. **Spin-up PostgreSQL database instance**
